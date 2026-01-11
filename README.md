@@ -55,7 +55,7 @@ To run the application locally, you need to start both the frontend dev server a
    npx partykit dev
    ```
 
-Open your browser and navigate to the URL shown by Vite (usually `http://localhost:5173`).
+Open your browser and navigate to the URL shown by Vite (usually `   `).
 
 ## License
 
